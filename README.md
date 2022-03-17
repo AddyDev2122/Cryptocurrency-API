@@ -1,4 +1,4 @@
-Cryptocurrency API
+# Cryptocurrency API
 
 Repository for Cryptocrrency API project, written in Python.
 
